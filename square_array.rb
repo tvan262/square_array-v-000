@@ -3,3 +3,4 @@ def square_array(array)
   array.each do ||
     puts "I love you #{ element}"
 end
+end
